@@ -12,6 +12,7 @@ html, body {
   width: 100%;
 }
 
+
 /* vertical-centered text */
 .text-vcenter {
   display: table-cell;
@@ -74,6 +75,7 @@ html, body {
 
 #contact {
   height: 400px;
+  margin: -100px 0px 0px 0px;
 }
 
 footer {
