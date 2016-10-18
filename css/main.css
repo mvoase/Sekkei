@@ -4,6 +4,10 @@ html, body {
   width: 100%;
 }
 
+.navbar-collapse {
+
+}
+
 /* padded section */
 .pad-section {
   padding: 50px 0;
@@ -42,7 +46,7 @@ html, body {
 }
 
 #services {
-  background-color: #CCAC00;
+  background-color: #D4AF37;
   color: #ffffff;
 }
 #services .glyphicon {
@@ -58,9 +62,9 @@ html, body {
 }
 
 #staff {
-  background: url(../images/estate.jpg) no-repeat center center fixed;
+  /*background: url(../images/estate.jpg) no-repeat center center fixed;*/
   display: table;
-  height: 800px;
+  height: 400px;
   position: relative;
   width: 100%;
   -webkit-background-size: cover;
@@ -73,7 +77,7 @@ html, body {
 }
 
 #contact {
-  height: 400px;
+  height: 300px;
 }
 
 footer {
